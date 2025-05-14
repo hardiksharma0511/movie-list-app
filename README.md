@@ -30,5 +30,4 @@ This CRUD application lets you **add, view, edit, and delete** movie records usi
 
 ---
 
-## 📂 Folder Structure
 
