@@ -1,6 +1,6 @@
 # 🎬 Movie List App
 
-Welcome to my **first full-stack project with backend integration** — a simple **PHP-based Movie List App**! This is a CRUD (Create, Read, Update, Delete) application that allows users to **add, view, edit, and delete** movies in a MySQL database. It’s built with **PHP** for the backend, **MySQL** for the database, and a simple **HTML/CSS** frontend.
+Welcome to my **first full-stack project with backend integration** — a simple **PHP-based Movie List App**! This is a CRUD (Create, Read, Update, Delete) application that allows users to **add, view, edit, and delete** movies in a MySQL database. It’s built with **PHP** for the backend, **MySQL** for the database, and a simple **HTML/CSS** frontend. 
 
 > ✨ **Project Journey**  
 > This project marks my first foray into backend development. I used **XAMPP** to set up a local server for PHP and MySQL, giving me hands-on experience with database integration and backend logic. I've learned how to interact with MySQL databases, handle user input with PHP, and deploy a local web application.
